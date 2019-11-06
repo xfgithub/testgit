@@ -1,0 +1,6 @@
+{
+    "name": "xfgithub/testgit",
+    "description": "my test composer",
+    "type": "project",
+    "require": {}
+}
